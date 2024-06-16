@@ -1,0 +1,3 @@
+escribir linea1
+escribir linea3
+linda
